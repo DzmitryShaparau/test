@@ -3,3 +3,6 @@ test
 
 repite
 22.25
+
+ok
+22.28
